@@ -39,7 +39,7 @@ metodo- ComputeViewSpacePosition: Obtém a posição no espaço da câmara a par
 
 metodo- ScreenToWorldPos: Converte uma posição no espaço da câmara para o espaço do mundo.
 
-metodo- WorldToScreenPos: Converte uma posição do espaço do mundo para coordenadas UV na tela.
+metodo- WorldToScreenPos: Converte uma posição do espaço do mundo para coordenadas UV no ecrã.
 
 metodo- Vignette: Aplica um efeito de vinheta para escurecer os cantos da imagem.
 
